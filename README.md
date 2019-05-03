@@ -1,6 +1,7 @@
 # Simple Store Management Application
 
   - Register new user
+  - Decode user password
   - Login
   - Add, update, delete, view stores and items
 
